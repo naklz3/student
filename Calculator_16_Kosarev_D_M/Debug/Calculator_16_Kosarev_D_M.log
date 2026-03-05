@@ -1,0 +1,5 @@
+﻿  Calculator_16_Kosarev_D_M.cpp
+C:\Users\college\source\repos\Calculator_16_Kosarev_D_M\Calculator_16_Kosarev_D_M\Calculator_16_Kosarev_D_M.cpp(24,8): warning C4405: eax: идентификатор является зарезервированным словом
+C:\Users\college\source\repos\Calculator_16_Kosarev_D_M\Calculator_16_Kosarev_D_M\Calculator_16_Kosarev_D_M.cpp(24,8): error C2400: синтаксическая ошибка во встроенном коде на языке ассемблера в "код операции"; обнаружено "eax"
+C:\Users\college\source\repos\Calculator_16_Kosarev_D_M\Calculator_16_Kosarev_D_M\Calculator_16_Kosarev_D_M.cpp(25,8): warning C4405: ebx: идентификатор является зарезервированным словом
+C:\Users\college\source\repos\Calculator_16_Kosarev_D_M\Calculator_16_Kosarev_D_M\Calculator_16_Kosarev_D_M.cpp(25,8): error C2400: синтаксическая ошибка во встроенном коде на языке ассемблера в "код операции"; обнаружено "ebx"
